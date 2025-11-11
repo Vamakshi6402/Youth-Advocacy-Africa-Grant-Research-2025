@@ -20,7 +20,9 @@ The brief identifies funding gaps, introduces donor-alignment matrices, and prop
 - SDG alignment: Decent Work (SDG 8) and Climate Action (SDG 13)  
 - Quantitative outcome framing and economic-impact indicators  
 - Integration of open-source data dashboards (Google Sheets, KoboToolbox)  
-- Institutional partnerships for evidence-based proposal design  
+- Institutional partnerships for evidence-based proposal design
+
+---
 
 ### Outcome
 The report contributed to YAA’s upcoming grant-readiness portfolio, improving internal funding documentation and strategic outreach for 2026 calls.
