@@ -41,6 +41,7 @@ The report contributed to **YAA’s upcoming grant-readiness portfolio**, improv
 
 ---
 
-**© 2025 Vamakshi Chaturvedi. All rights reserved.** 
+**© 2025 Vamakshi Chaturvedi. All rights reserved.**
 
 Original work prepared for professional and research purposes. Please request permission before redistribution.
+
